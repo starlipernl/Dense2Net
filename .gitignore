@@ -1,0 +1,7 @@
+*.png
+*.jpg
+*.idea
+*data/
+*results/
+*.out
+*.ini
